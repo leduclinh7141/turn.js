@@ -1,0 +1,134 @@
+[{
+    "id": 1,
+    "action": "insert",
+    "table": "question",
+    "data": {
+        "projectId": 1,
+        "serverId": 1,
+        "sort": 1,
+        "section": "寸法",
+        "name": "全長",
+        "location": "長さ",
+        "method": "ゲージ",
+        "standard": "1500",
+        "error": "±5",
+        "hasReality": true
+    }
+},{
+    "id": 2,
+    "action": "update",
+    "table": "question",
+    "data": {
+        "projectId": 1,
+        "serverId": 2,
+        "sort": 2,
+        "section": "寸法",
+        "name": "全長",
+        "location": "長さ",
+        "method": "ゲージ",
+        "standard": "1550",
+        "error": "±6",
+        "hasReality": true
+    }
+},{
+    "id": 3,
+    "action": "delete",
+    "table": "question",
+    "data": {
+        "projectId": 1,
+        "serverId": 1,
+        "sort": 2,
+        "section": "寸法",
+        "name": "全長",
+        "location": "長さ",
+        "method": "ゲージ",
+        "standard": "1550",
+        "error": "±6",
+        "hasReality": true
+    }
+},{
+    "id": 4,
+    "action": "insert",
+    "table": "model",
+    "data": {
+        "serverId": 2,
+        "id": 1,
+        "section": "寸法",
+        "name": "全長",
+        "number": "長さ"
+    }
+},{
+    "id": 5,
+    "action": "update",
+    "table": "model",
+    "data": {
+        "serverId": 2,
+        "id": 1,
+        "section": "寸法",
+        "name": "全長",
+        "number": "長さ"
+    }
+},{
+    "id": 5,
+    "action": "delete",
+    "table": "model",
+    "data": {
+        "serverId": 2,
+        "id": 1,
+        "section": "寸法",
+        "name": "全長",
+        "number": "長さ"
+    }
+},{
+    "id": 6,
+    "action": "insert",
+    "table": "option",
+    "data": {
+        "serverId": 1,
+        "section": 1,
+        "name": "全長"
+    }
+},{
+    "id": 7,
+    "action": "update",
+    "table": "option",
+    "data": {
+        "serverId": 1,
+        "section": 1,
+        "name": "全長1"
+    }
+},{
+    "id": 8,
+    "action": "delete",
+    "table": "option",
+    "data": {
+        "serverId": 1,
+        "section": 1,
+        "name": "全長"
+    }
+},{
+    "id": 9,
+    "action": "insert",
+    "table": "project",
+    "data": {
+        "serverId": 1,
+        "modelId": 1,
+    }
+}
+,{
+    "id": 10,
+    "action": "update",
+    "table": "project",
+    "data": {
+        "serverId": 1,
+        "modelId": 1,
+    }
+},{
+    "id": 11,
+    "action": "delete",
+    "table": "project",
+    "data": {
+        "serverId": 1,
+        "modelId": 1,
+    }
+}]
