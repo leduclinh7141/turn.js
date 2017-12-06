@@ -55,6 +55,7 @@
         "id": 1,
         "section": "寸法",
         "name": "全長",
+         "customer": "全長",
         "number": "長さ"
     }
 },{
@@ -66,6 +67,7 @@
         "id": 1,
         "section": "寸法",
         "name": "全長",
+        "customer": "全長",
         "number": "長さ"
     }
 },{
@@ -77,6 +79,7 @@
         "id": 1,
         "section": "寸法",
         "name": "全長",
+        "customer": "全長",
         "number": "長さ"
     }
 },{
