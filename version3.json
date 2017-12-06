@@ -112,16 +112,15 @@
     "table": "project",
     "data": {
         "serverId": 1,
-        "modelId": 1,
+        "modelId": 1
     }
-}
-,{
+},{
     "id": 10,
     "action": "update",
     "table": "project",
     "data": {
         "serverId": 1,
-        "modelId": 1,
+        "modelId": 1
     }
 },{
     "id": 11,
@@ -129,6 +128,6 @@
     "table": "project",
     "data": {
         "serverId": 1,
-        "modelId": 1,
+        "modelId": 1
     }
 }]
