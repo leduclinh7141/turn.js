@@ -133,4 +133,22 @@
         "serverId": 1,
         "modelId": 1
     }
+},{
+    "id": 12,
+    "action": "insert",
+    "table": "draw",
+    "data": {
+        "serverId": 1,
+        "projectId": 1,
+        "url": "http://www.telegraph.co.uk/content/dam/Travel/Tours/japan%202-xlarge.jpg"
+    }
+},{
+    "id": 13,
+    "action": "insert",
+    "table": "project",
+    "data": {
+        "serverId": 1,
+        "projectId": 1,
+        "url": "https://tripbuddy.info/wp-content/uploads/2016/05/yokohama-fuji.jpg"
+    }
 }]
