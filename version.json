@@ -145,7 +145,7 @@
 },{
     "id": 13,
     "action": "insert",
-    "table": "project",
+    "table": "draw",
     "data": {
         "serverId": 1,
         "projectId": 1,
