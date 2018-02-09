@@ -152,7 +152,7 @@
         "url": "https://raw.githubusercontent.com/leduclinh7141/turn.js/master/Picture2.png"
     }
 },{
-    "id": 13,
+    "id": 14,
     "action": "insert",
     "table": "draw",
     "data": {
@@ -161,7 +161,7 @@
         "url": "https://raw.githubusercontent.com/leduclinh7141/turn.js/master/Picture3.png"
     }
 },{
-    "id": 13,
+    "id": 15,
     "action": "insert",
     "table": "draw",
     "data": {
@@ -170,7 +170,7 @@
         "url": "https://raw.githubusercontent.com/leduclinh7141/turn.js/master/Picture4.png"
     }
 },{
-    "id": 13,
+    "id": 16,
     "action": "insert",
     "table": "draw",
     "data": {
@@ -179,7 +179,7 @@
         "url": "https://raw.githubusercontent.com/leduclinh7141/turn.js/master/Picture5.png"
     }
 },{
-    "id": 13,
+    "id": 17,
     "action": "insert",
     "table": "draw",
     "data": {
@@ -188,7 +188,7 @@
         "url": "https://raw.githubusercontent.com/leduclinh7141/turn.js/master/Picture6.png"
     }
 },{
-    "id": 13,
+    "id": 18,
     "action": "insert",
     "table": "draw",
     "data": {
@@ -197,7 +197,7 @@
         "url": "https://raw.githubusercontent.com/leduclinh7141/turn.js/master/Picture7.png"
     }
 },{
-    "id": 13,
+    "id": 19,
     "action": "insert",
     "table": "draw",
     "data": {
@@ -206,7 +206,7 @@
         "url": "https://raw.githubusercontent.com/leduclinh7141/turn.js/master/Picture8.png"
     }
 },{
-    "id": 13,
+    "id": 20,
     "action": "insert",
     "table": "draw",
     "data": {
@@ -214,4 +214,52 @@
         "projectId": 1,
         "url": "https://raw.githubusercontent.com/leduclinh7141/turn.js/master/Picture9.png"
     }
-}]
+},{
+    "id": 21,
+    "action": "insert",
+    "table": "draw",
+    "data": {
+        "serverId": 1,
+        "projectId": 1,
+        "url": "https://raw.githubusercontent.com/leduclinh7141/turn.js/master/Picture9.png"
+    }
+},{"id": 22,"action": "insert","table": "equipment_category","data": {"id":1,"name":"クレーン作業前点検"}},
+    {"id": 23,"action": "insert","table": "equipment_category","data": {"id":2,"name":"クレーン月例点検"}},
+    {"id": 24,"action": "insert","table": "equipment_category","data": {"id":3,"name":"クレーン吊り具点検"}},
+    {"id": 25,"action": "insert","table": "equipment","data": {"id":1,"name":"D棟南","categoryId":1}},
+    {"id": 26,"action": "insert","table": "equipment","data": {"id":2,"name":"B棟南"},"categoryId":1},
+    {"id": 27,"action": "insert","table": "equipment","data": {"id":3,"name":"C棟南"},"categoryId":1},
+    {"id": 28,"action": "insert","table": "equipment","data": {"id":1,"name":"D棟南","categoryId":2}},
+    {"id": 29,"action": "insert","table": "equipment","data": {"id":2,"name":"B棟南"},"categoryId":2},
+    {"id": 30,"action": "insert","table": "equipment","data": {"id":3,"name":"C棟南"},"categoryId":2},
+    {"id": 31,"action": "insert","table": "equipment","data": {"id":1,"name":"D棟南","categoryId":3}},
+    {"id": 32,"action": "insert","table": "equipment","data": {"id":2,"name":"B棟南"},"categoryId":3},
+    {"id": 33,"action": "insert","table": "equipment","data": {"id":3,"name":"C棟南"},"categoryId":3},
+    {"id": 34,"action": "insert","table": "equipment_question","data": {"id":1,"sort":1,"name":"ペンダントスイッチ","standard":"押ボタンの不良","version":1,"categoryId":1,"createTime":"2018/02/09","editTime":"2018/02/09"}},
+    {"id": 35,"action": "insert","table": "equipment_question","data": {"id":2,"sort":2,"name":"操作ケ－ブル","standard":"損傷の有無","version":1,"categoryId":1,"createTime":"2018/02/10","editTime":"2018/02/10"}},
+    {"id": 36,"action": "insert","table": "equipment_question","data": {"id":3,"sort":3,"name":"ワイヤ－ロ－プ","standard":"素線切れ、キンク","version":1,"categoryId":1,"createTime":"2018/02/11","editTime":"2018/02/11"}},
+    {"id": 37,"action": "insert","table": "equipment_question","data": {"id":4,"sort":4,"name":"フック止め､ナット\n割りピン","standard":"損傷の有無","version":1,"categoryId":1,"createTime":"2018/02/12","editTime":"2018/02/12"}},
+    {"id": 38,"action": "insert","table": "equipment_question","data": {"id":5,"sort":5,"name":"外れ止め","standard":"損傷の有無","version":1,"categoryId":1,"createTime":"2018/02/13","editTime":"2018/02/13"}},
+    {"id": 39,"action": "insert","table": "equipment_question","data": {"id":6,"sort":6,"name":"リミットスイッチ","standard":"操作確認（上限）","version":1,"categoryId":1,"createTime":"2018/02/14","editTime":"2018/02/14"}},
+    {"id": 40,"action": "insert","table": "equipment_question","data": {"id":7,"sort":7,"name":"巻上げブレ－キ","standard":"機能の良否","version":1,"categoryId":1,"createTime":"2018/02/15","editTime":"2018/02/15"}},
+    {"id": 41,"action": "insert","table": "equipment_question","data": {"id":8,"sort":8,"name":"横　行","standard":"異音の有無","version":1,"categoryId":1,"createTime":"2018/02/16","editTime":"2018/02/16"}},
+    {"id": 42,"action": "insert","table": "equipment_question","data": {"id":9,"sort":9,"name":"走　行","standard":"異音の有無","version":1,"categoryId":1,"createTime":"2018/02/17","editTime":"2018/02/17"}},
+    {"id": 43,"action": "insert","table": "equipment_question","data": {"id":10,"sort":1,"name":"巻上機構","standard":"過巻防止装置の状態","version":1,"categoryId":2,"createTime":"2018/02/18","editTime":"2018/02/18"}},
+    {"id": 44,"action": "insert","table": "equipment_question","data": {"id":11,"sort":2,"name":"巻上機構","standard":"ブレーキの確認","version":1,"categoryId":2,"createTime":"2018/02/19","editTime":"2018/02/19"}},
+    {"id": 45,"action": "insert","table": "equipment_question","data": {"id":12,"sort":3,"name":"巻上機構","standard":"異音（マグネットスイッチ）","version":1,"categoryId":2,"createTime":"2018/02/20","editTime":"2018/02/20"}},
+    {"id": 46,"action": "insert","table": "equipment_question","data": {"id":13,"sort":4,"name":"巻上機構","standard":"吊りワイヤーの磨耗","version":1,"categoryId":2,"createTime":"2018/02/21","editTime":"2018/02/21"}},
+    {"id": 47,"action": "insert","table": "equipment_question","data": {"id":14,"sort":5,"name":"巻上機構","standard":"吊りワイヤーの油切れ","version":1,"categoryId":2,"createTime":"2018/02/22","editTime":"2018/02/22"}},
+    {"id": 48,"action": "insert","table": "equipment_question","data": {"id":15,"sort":6,"name":"横行装置","standard":"異音（マグネットスイッチ）","version":1,"categoryId":2,"createTime":"2018/02/23","editTime":"2018/02/23"}},
+    {"id": 49,"action": "insert","table": "equipment_question","data": {"id":16,"sort":7,"name":"横行装置","standard":"ブレーキの確認","version":1,"categoryId":2,"createTime":"2018/02/24","editTime":"2018/02/24"}},
+    {"id": 50,"action": "insert","table": "equipment_question","data": {"id":17,"sort":8,"name":"走行装置","standard":"異音（マグネットスイッチ）","version":1,"categoryId":2,"createTime":"2018/02/25","editTime":"2018/02/25"}},
+    {"id": 51,"action": "insert","table": "equipment_question","data": {"id":18,"sort":9,"name":"走行装置","standard":"ブレーキの確認","version":1,"categoryId":2,"createTime":"2018/02/26","editTime":"2018/02/26"}},
+    {"id": 52,"action": "insert","table": "equipment_question","data": {"id":19,"sort":10,"name":"押しボタン","standard":"押しボタンコードの損傷","version":1,"categoryId":2,"createTime":"2018/02/27","editTime":"2018/02/27"}},
+    {"id": 53,"action": "insert","table": "equipment_question","data": {"id":20,"sort":11,"name":"押しボタン","standard":"押しボタンスイッチの磨耗・変形","version":1,"categoryId":2,"createTime":"2018/02/28","editTime":"2018/02/28"}},
+    {"id": 54,"action": "insert","table": "equipment_question","data": {"id":21,"sort":1,"name":"吊りワイヤー","standard":"1　素線切れ","version":1,"categoryId":3,"createTime":"2018/03/01","editTime":"2018/03/01"}},
+    {"id": 55,"action": "insert","table": "equipment_question","data": {"id":22,"sort":2,"name":"吊りワイヤー","standard":"2　キンク、著しいうねり","version":1,"categoryId":3,"createTime":"2018/03/02","editTime":"2018/03/02"}},
+    {"id": 56,"action": "insert","table": "equipment_question","data": {"id":23,"sort":3,"name":"吊りワイヤー","standard":"3　磨耗","version":1,"categoryId":3,"createTime":"2018/03/03","editTime":"2018/03/03"}},
+    {"id": 57,"action": "insert","table": "equipment_question","data": {"id":24,"sort":4,"name":"吊りチェーン","standard":"1　キズ、磨耗","version":1,"categoryId":3,"createTime":"2018/03/04","editTime":"2018/03/04"}},
+    {"id": 58,"action": "insert","table": "equipment_question","data": {"id":25,"sort":5,"name":"吊りチェーン","standard":"2　曲がり、ねじれ、","version":1,"categoryId":3,"createTime":"2018/03/05","editTime":"2018/03/05"}},
+    {"id": 59,"action": "insert","table": "equipment_question","data": {"id":26,"sort":6,"name":"フック、シャックル、マスターリンク","standard":"1　変形","version":1,"categoryId":3,"createTime":"2018/03/06","editTime":"2018/03/06"}},
+    {"id": 60,"action": "insert","table": "equipment_question","data": {"id":27,"sort":7,"name":"フック、シャックル、マスターリンク","standard":"2　連結部（クサリピン、スプリングピン）の変形","version":1,"categoryId":3,"createTime":"2018/03/07","editTime":"2018/03/07"}}
+]
