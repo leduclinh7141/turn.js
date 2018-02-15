@@ -12,7 +12,7 @@
             "standard": "-",
             "error": "±3",
             "method": "スコヤ 下げ振り 差し金",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -29,7 +29,7 @@
             "standard": "-",
             "error": "±3",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -46,7 +46,7 @@
             "standard": "-",
             "error": "±3",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -63,7 +63,7 @@
             "standard": "-",
             "error": "±3",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -80,7 +80,7 @@
             "standard": "1855",
             "error": "±5",
             "method": "スケール",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -97,7 +97,7 @@
             "standard": "1855",
             "error": "±5",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -114,7 +114,7 @@
             "standard": "1004",
             "error": "±4.5",
             "method": "スコヤ",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -131,7 +131,7 @@
             "standard": "884",
             "error": "±4",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -148,7 +148,7 @@
             "standard": "2430",
             "error": "±8",
             "method": "ゲージ",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -165,7 +165,7 @@
             "standard": "7",
             "error": "±5",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -182,7 +182,7 @@
             "standard": "48",
             "error": "±5",
             "method": "隙間ゲージ 差し金",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -199,7 +199,7 @@
             "standard": "728",
             "error": "±2",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -216,7 +216,7 @@
             "standard": "180",
             "error": "±2",
             "method": "取付ゲージ 取付ピン",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -233,7 +233,7 @@
             "standard": "120",
             "error": "±2",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -250,7 +250,7 @@
             "standard": "110",
             "error": "±1",
             "method": "バックカメラ ﾌﾞﾗｹｯﾄ 差し金",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -267,7 +267,7 @@
             "standard": "160",
             "error": "±1",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -284,7 +284,7 @@
             "standard": "66",
             "error": "±1",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -301,7 +301,7 @@
             "standard": "ゲージ隙間",
             "error": "≤１",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -318,7 +318,7 @@
             "standard": "50",
             "error": "±1",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -335,7 +335,7 @@
             "standard": "75",
             "error": "±1",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -352,7 +352,7 @@
             "standard": "ゲージ隙間",
             "error": "≤１",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -369,7 +369,7 @@
             "standard": "90",
             "error": "±1",
             "method": "バックミラー ﾌﾞﾗｹｯﾄ 差し金",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -386,7 +386,7 @@
             "standard": "65",
             "error": "±2",
             "method": "ゲージ",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -403,7 +403,7 @@
             "standard": "65",
             "error": "±1",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -420,7 +420,7 @@
             "standard": "160",
             "error": "±2",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -437,7 +437,7 @@
             "standard": "16",
             "error": "±1",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -454,7 +454,7 @@
             "standard": "65",
             "error": "ウェイトに 干渉なきこと",
             "method": "ドアカバー",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -471,7 +471,7 @@
             "standard": "65",
             "error": "±1",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -488,7 +488,7 @@
             "standard": "570",
             "error": "±2",
             "method": "ドアサポート",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -505,7 +505,7 @@
             "standard": "167",
             "error": "±１",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -522,7 +522,7 @@
             "standard": "517",
             "error": "±2",
             "method": "ｻﾌﾞ合わせ ※組合手順",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -539,7 +539,7 @@
             "standard": "248",
             "error": "±１",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -556,7 +556,7 @@
             "standard": "488",
             "error": "±2",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -573,7 +573,7 @@
             "standard": "348",
             "error": "±2",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -590,7 +590,7 @@
             "standard": "158",
             "error": "±１",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -607,7 +607,7 @@
             "standard": "-",
             "error": "±2",
             "method": "ｻﾌﾞ合わせ 差し金 ※組合手順",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -624,7 +624,7 @@
             "standard": "-",
             "error": "±2",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -641,7 +641,7 @@
             "standard": "-",
             "error": "±2",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -658,7 +658,7 @@
             "standard": "-",
             "error": "±2",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -675,7 +675,7 @@
             "standard": "-",
             "error": "550N・m",
             "method": "ﾄﾙｸﾚﾝﾁ",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -692,7 +692,7 @@
             "standard": "-",
             "error": "550N・m",
             "method": "",
-            "reality": 0
+            "hasReality": false
         }
     },
     {
@@ -709,7 +709,7 @@
             "standard": "≤1mm",
             "error": "≤1mm",
             "method": "隙間尺",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -726,7 +726,7 @@
             "standard": "-",
             "error": "クラック無きこと",
             "method": "目　視",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -743,7 +743,7 @@
             "standard": "-",
             "error": "文字崩れ無きこと",
             "method": "目　視",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -760,7 +760,7 @@
             "standard": "M36×4.0",
             "error": "ネジ深さ55 下穴深70 止まり2回転以内 傾き無きこと",
             "method": "ﾈｼﾞｹﾞｰｼﾞ ﾀｯﾌﾟ",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -777,7 +777,7 @@
             "standard": "M36×4.0",
             "error": "ネジ深さ55 下穴深70 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -794,7 +794,7 @@
             "standard": "M10×1.5",
             "error": "ネジ深24 下穴深35 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -811,7 +811,7 @@
             "standard": "M10×1.5",
             "error": "ネジ深24 下穴深35 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -828,7 +828,7 @@
             "standard": "M10×1.5",
             "error": "ネジ深24 下穴深35 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -845,7 +845,7 @@
             "standard": "M10×1.5",
             "error": "ネジ深24 下穴深35 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -862,7 +862,7 @@
             "standard": "M10×1.5",
             "error": "ネジ深24 下穴深35 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -879,7 +879,7 @@
             "standard": "M10×1.5",
             "error": "ネジ深24 下穴深35 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -896,7 +896,7 @@
             "standard": "M10×1.5",
             "error": "ネジ深24 下穴深35 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -913,7 +913,7 @@
             "standard": "M10×1.5",
             "error": "ネジ深24 下穴深35 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -930,7 +930,7 @@
             "standard": "M10×1.5",
             "error": "ネジ深24 下穴深35 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -947,7 +947,7 @@
             "standard": "M10×1.5",
             "error": "ネジ深24 下穴深35 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -964,7 +964,7 @@
             "standard": "M10×1.5",
             "error": "ネジ深24 下穴深35 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -981,7 +981,7 @@
             "standard": "M10×1.5",
             "error": "ネジ深24 下穴深35 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -998,7 +998,7 @@
             "standard": "M10×1.5",
             "error": "ネジ深24 下穴深35 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -1015,7 +1015,7 @@
             "standard": "M10×1.5",
             "error": "ネジ深24 下穴深35 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -1032,7 +1032,7 @@
             "standard": "M10×1.5",
             "error": "ネジ深24 下穴深35 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -1049,7 +1049,7 @@
             "standard": "M10×1.5",
             "error": "ネジ深24 下穴深35 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -1066,7 +1066,7 @@
             "standard": "M33×3.0",
             "error": "ネジ深さ67 下穴深81 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -1083,7 +1083,7 @@
             "standard": "M33×3.0",
             "error": "ネジ深さ67 下穴深81 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -1100,7 +1100,7 @@
             "standard": "M33×3.0",
             "error": "ネジ深さ67 下穴深81 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -1117,7 +1117,7 @@
             "standard": "M33×3.0",
             "error": "ネジ深さ67 下穴深81 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -1134,7 +1134,7 @@
             "standard": "M20×2.5",
             "error": "ネジ深さ45 下穴深58 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -1151,7 +1151,7 @@
             "standard": "M20×2.5",
             "error": "ネジ深さ45 下穴深58 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     },
     {
@@ -1168,7 +1168,7 @@
             "standard": "M20×2.5",
             "error": "ネジ深さ45 下穴深58 止まり2回転以内 傾き無きこと",
             "method": "",
-            "reality": 1
+            "hasReality": true
         }
     }
 ]
